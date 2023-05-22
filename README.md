@@ -14,7 +14,9 @@ T1.2206.M1 - Group 01
     Composer for Laravel
 ### B.2 - Clone project
 1. Run terminal
+    
     git clone https://github.com/Hunter1412/fullhouse.git
+    
     cd ./full-house
 
 2. In file .evn
