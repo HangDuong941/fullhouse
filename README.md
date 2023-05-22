@@ -29,7 +29,9 @@ Note:
 
 
 3. Run file .sql into value database
+    
     3.1. Add data file ProvinceInVN.sql into database
+    
     3.2. Add data files ext .sql into database
 
 4. Run on terminal:
